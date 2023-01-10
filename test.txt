@@ -1,0 +1,6 @@
+test
+
+(use "git restore --staged <file>..." to unstage)
+git restore --staged <file>.
+
+>git log  -p --follow  -- index2.docx
