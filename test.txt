@@ -3,4 +3,6 @@ test
 (use "git restore --staged <file>..." to unstage)
 git restore --staged <file>.
 
->git log  -p --follow  -- index2.docx
+>git log  -p --follow  index2.docx (commmits of a specified file)
+
+>git mv channel.txt channel.html, vi text.txt
